@@ -45,4 +45,5 @@ visit: `http://localhost:8080/OOAD-Project/login.jsp`
 database file in root directory `database`.
 
 All development process can be tracked at https://github.com/gaozheng53/Course_Clip
+
 Thanks all the contributors [@Zheng Gao](https://github.com/gaozheng53) [@Tianrou Chang](https://github.com/TianrouC) [@Yujia Zhai](https://github.com/lemonyujia) [@Zhehang Li](https://github.com/zli82)[@Shaoke Li](https://github.com/iDoNotLikeGithub) 
