@@ -36,7 +36,7 @@ Work with full project lifecycle development in J2EE technologies through fast-p
 	1. Fuzzy search courses by course name and course number  ✅
 	2. Pagination
 2. Course Page
-	2. Pagination
+	1. Pagination
 # Test 
 API/Web Services testing using JUnit4 and Selenium WebDriver
 
@@ -44,4 +44,5 @@ visit: `http://localhost:8080/OOAD-Project/login.jsp`
 
 database file in root directory `database`.
 
-Thanks all the contributors
+All development process can be tracked at https://github.com/gaozheng53/Course_Clip
+Thanks all the contributors [@Zheng Gao](https://github.com/gaozheng53) [@Tianrou Chang](https://github.com/TianrouC) [@Yujia Zhai](https://github.com/lemonyujia) [@Zhehang Li](https://github.com/zli82)[@Shaoke Li](https://github.com/iDoNotLikeGithub) 
