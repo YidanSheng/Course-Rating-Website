@@ -34,9 +34,9 @@ Work with full project lifecycle development in J2EE technologies through fast-p
 # Iteration 3 Tasks	
 1. Home Page
 	1. Fuzzy search courses by course name and course number  ✅
-	2. Pagination
+	2. Pagination ✅
 2. Course Page
-	1. Pagination
+	1. Pagination ✅
 # Test 
 API/Web Services testing using JUnit4 and Selenium WebDriver
 
